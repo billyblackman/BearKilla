@@ -1,0 +1,14 @@
+# Use LF everywhere in repo
+* text eol=lf
+
+# These should remain binary
+*.png binary
+*.jpg binary
+*.fbx binary
+*.anim binary
+*.prefab binary
+*.unity binary
+*.asset binary
+*.dll binary
+*.exe binary
+*.zip binary
